@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Team Survey
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This program will allow Scrum Masters to create and send out surveys to their teams for feedback through a personalized portal.
 
 ## Available Scripts
 
